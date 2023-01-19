@@ -1,0 +1,3 @@
+/home/andres/git/OrderMarkers/build/CMakeFiles/Camara.dir
+/home/andres/git/OrderMarkers/build/CMakeFiles/edit_cache.dir
+/home/andres/git/OrderMarkers/build/CMakeFiles/rebuild_cache.dir
