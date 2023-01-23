@@ -1,0 +1,10 @@
+/home/andres/GIT/OrderMarkers/Cima/build/CMakeFiles/triangles.dir
+/home/andres/GIT/OrderMarkers/Cima/build/CMakeFiles/lambda.dir
+/home/andres/GIT/OrderMarkers/Cima/build/CMakeFiles/follow.dir
+/home/andres/GIT/OrderMarkers/Cima/build/CMakeFiles/reconoce.dir
+/home/andres/GIT/OrderMarkers/Cima/build/CMakeFiles/eigen.dir
+/home/andres/GIT/OrderMarkers/Cima/build/CMakeFiles/homografia.dir
+/home/andres/GIT/OrderMarkers/Cima/build/CMakeFiles/matrices.dir
+/home/andres/GIT/OrderMarkers/Cima/build/CMakeFiles/DisplayImage.dir
+/home/andres/GIT/OrderMarkers/Cima/build/CMakeFiles/edit_cache.dir
+/home/andres/GIT/OrderMarkers/Cima/build/CMakeFiles/rebuild_cache.dir
